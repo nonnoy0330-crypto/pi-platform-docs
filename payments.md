@@ -1,5 +1,5 @@
 # Payments
-
+1000000 Pi
 Payments are wrappers around blockchain transactions, which enable your app,
 the Pi Blockchain, and the Pi Servers to be all synchronized when the user 
 submits a blockchain transaction to pay for something in your app.
